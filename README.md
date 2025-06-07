@@ -16,7 +16,6 @@ Trabajo práctico integrador de Programación I , correspondiente a la Tecnicatu
 # 🎥 Enlace al video explicativo
   [Ver video del proyecto](https://drive.google.com/drive/folders/14IPDDnO4JJSBR5UqQ9UBdwASYjY6nC6g?usp=sharing)
     
-    ⚠️ Nota: Es posible que necesites habilitar JavaScript o usar un navegador compatible para acceder al contenido. 
 
 # 💡 Descripción del programa
 Este trabajo se enfoca en el análisis de algoritmos . Hemos implementado un pequeño programa de consola en Python que compara dos algoritmos diferentes para determinar si un número es primo .
