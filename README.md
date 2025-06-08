@@ -8,7 +8,7 @@ Trabajo práctico integrador de Programación I , correspondiente a la Tecnicatu
               Iñaki Elizondo
               📧 elizondo.inaki25@gmail.com
               Maximiliano Ducoli
-              📧 maximiliano.ducoli@tupad.utn.edu.ar
+              📧 maxiducoli@gmail.com
 # 👨‍🏫 Profesor
               Ariel Enferrel
 # 🧑‍🏫 Tutor
